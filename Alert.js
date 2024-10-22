@@ -1,10 +1,10 @@
-alert("Hey Everyone!");
+// alert("Hey Everyone!");
 
-alert("Error! Please enter a valid password.");
+// alert("Error! Please enter a valid password.");
 
 
-alert("Welcome to JS Land...\nHappy Coding!");
+// alert("Welcome to JS Land...\nHappy Coding!");
 
-alert("Welcome to JS Land...");
-alert("Happy Coding!");
+// alert("Welcome to JS Land...");
+// alert("Happy Coding!");
 
