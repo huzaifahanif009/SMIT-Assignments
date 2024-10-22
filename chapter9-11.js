@@ -168,7 +168,7 @@
 // }
 
 
-//     // 11.Question.................
+//     // 11.Question..................
 // Get user input
 // var firstNumber = prompt("Enter the first number:");
 // var secondNumber = prompt("Enter the second number:");
